@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## About Me
-Rajab is fullstack javascript developer with five years of professional experience and a bachelor’s in computer science, REST architecture, and javascript as my primary programming language and for the past few years, He is focusing on web applications. specializes in JavaScript (using SPA frameworks like Angular, React, and Node.js for the backend).Managing all aspects of the development process he worked on 10+ projects and solved complex business problems in different industries including real estate, online booking taxis, online food ordering, and so on.
-He is passionate about learning, expanding my knowledge, building high-quality software.
-He is ready for an opportunity to use my skills to grow your revenue exponentially 
+Rajab is fullstack javascript developer with five years of professional experience and a bachelor’s in computer science, REST architecture, and javascript as his primary programming language and for the past few years, He is focusing on web applications. specializes in JavaScript (using SPA frameworks like Angular, React, and Node.js for the backend).Managing all aspects of the development process he worked on 10+ projects and solved complex business problems in different industries including real estate, online booking taxis, online food ordering etc.
+He is passionate about learning, expanding his knowledge, building high-quality software.
+He is ready for an opportunity to use his skills to grow your revenue exponentially 
 
 
 
