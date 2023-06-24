@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About Me
-JavaScript developer with 4 years of professional experience and a bachelor’s in computer science, REST architecture, and JavaScript as his primary programming language. He is focusing on web applications. specializes in JavaScript (using SPA frameworks like Angular and Node.js for the backend). He is passionate about learning, expanding his knowledge, and building high-quality software.
+With five years of professional experience and a bachelor's degree in computer science, this Sr. Software Engineer is well-versed in REST architecture and considers JavaScript to be his primary programming language. His focus is on web applications, and they specialize in using SPA frameworks like Angular for the frontend and Node.js for the backend. His passion for learning, expanding their knowledge, and building high-quality software makes them valuable assets to any software development team.
 
 
 
@@ -24,8 +24,8 @@ JavaScript developer with 4 years of professional experience and a bachelor’s 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> CONNECT WITH ME
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rajab.mohammadi.16/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/js.mohammadi/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajabMohammadi)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajab-mohammadi/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rajabmohammadi.me/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajabmohammadi_com/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajabmohammadi)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajabmohammadi/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajab.mohammadi222@gmail.com)
